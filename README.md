@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0009-palindrome-number) |
+| [0507-perfect-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0507-perfect-number) |
 ## Dynamic Programming
 |  |
 | ------- |
