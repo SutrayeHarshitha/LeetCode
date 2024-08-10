@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0066-plus-one) |
@@ -12,6 +13,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
