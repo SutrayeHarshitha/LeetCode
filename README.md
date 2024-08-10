@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0066-plus-one) |
 | [0507-perfect-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0507-perfect-number) |
 ## Dynamic Programming
 |  |
