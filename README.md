@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0283-move-zeroes) |
+| [0999-regions-cut-by-slashes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0001-two-sum](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0169-majority-element) |
+| [0999-regions-cut-by-slashes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,4 +69,20 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0136-single-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+## Matrix
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
