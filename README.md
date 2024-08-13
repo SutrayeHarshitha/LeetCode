@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0283-move-zeroes) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
 | ------- |
