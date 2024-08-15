@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0283-move-zeroes) |
 | [0999-regions-cut-by-slashes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@
 | [0169-majority-element](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0202-happy-number) |
 | [0999-regions-cut-by-slashes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Divide and Conquer
 |  |
@@ -47,11 +49,13 @@
 | [0075-sort-colors](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0169-majority-element) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0169-majority-element) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
