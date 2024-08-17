@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0283-move-zeroes) |
 | [0624-maximum-distance-in-arrays](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0890-lemonade-change](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -139,4 +140,5 @@
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0890-lemonade-change](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
