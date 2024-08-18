@@ -72,6 +72,7 @@
 | [0263-ugly-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1013-fibonacci-number) |
+| [2507-number-of-common-factors](https://github.com/SutrayeHarshitha/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,4 +162,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/SutrayeHarshitha/LeetCode/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/SutrayeHarshitha/LeetCode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
