@@ -33,6 +33,7 @@
 | [0088-merge-sorted-array](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0202-happy-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1013-fibonacci-number) |
 | [2507-number-of-common-factors](https://github.com/SutrayeHarshitha/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Dynamic Programming
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0633-sum-of-square-numbers](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Tree
 |  |
 | ------- |
