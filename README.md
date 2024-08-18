@@ -16,6 +16,7 @@
 | [0136-single-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0506-relative-ranks) |
 | [0624-maximum-distance-in-arrays](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0890-lemonade-change) |
@@ -38,6 +39,7 @@
 | [0013-roman-to-integer](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0999-regions-cut-by-slashes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -144,4 +147,8 @@
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0890-lemonade-change) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
