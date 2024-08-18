@@ -71,11 +71,13 @@
 | [0202-happy-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -151,4 +153,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0496-next-greater-element-i) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
