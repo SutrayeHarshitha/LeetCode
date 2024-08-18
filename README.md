@@ -23,6 +23,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SutrayeHarshitha/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@
 | [0507-perfect-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1013-fibonacci-number) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SutrayeHarshitha/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/SutrayeHarshitha/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Dynamic Programming
 |  |
@@ -178,6 +180,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SutrayeHarshitha/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/SutrayeHarshitha/LeetCode/tree/master/2507-number-of-common-factors) |
 ## Simulation
 |  |
