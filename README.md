@@ -23,6 +23,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [0053-maximum-subarray](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1013-fibonacci-number) |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 ## String
 |  |
 | ------- |
