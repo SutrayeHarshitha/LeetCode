@@ -92,6 +92,7 @@
 | [0014-longest-common-prefix](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0058-length-of-last-word) |
+| [3447-clear-digits](https://github.com/SutrayeHarshitha/LeetCode/tree/master/3447-clear-digits) |
 ## Trie
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0496-next-greater-element-i) |
+| [3447-clear-digits](https://github.com/SutrayeHarshitha/LeetCode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -177,4 +179,8 @@
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/SutrayeHarshitha/LeetCode/tree/master/2507-number-of-common-factors) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/SutrayeHarshitha/LeetCode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
