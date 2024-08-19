@@ -19,6 +19,7 @@
 | [0496-next-greater-element-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0506-relative-ranks) |
 | [0624-maximum-distance-in-arrays](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0870-magic-squares-in-grid](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -44,6 +45,7 @@
 | [0169-majority-element](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0870-magic-squares-in-grid](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -78,6 +80,7 @@
 | [0263-ugly-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0870-magic-squares-in-grid](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1013-fibonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SutrayeHarshitha/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/SutrayeHarshitha/LeetCode/tree/master/2507-number-of-common-factors) |
@@ -127,6 +130,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0870-magic-squares-in-grid](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Binary Search
 |  |
