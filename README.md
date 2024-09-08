@@ -79,6 +79,7 @@
 | [0066-plus-one](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0870-magic-squares-in-grid](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -101,6 +102,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0412-fizz-buzz) |
 | [3447-clear-digits](https://github.com/SutrayeHarshitha/LeetCode/tree/master/3447-clear-digits) |
 ## Trie
 |  |
@@ -193,6 +195,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0412-fizz-buzz) |
 | [3447-clear-digits](https://github.com/SutrayeHarshitha/LeetCode/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
