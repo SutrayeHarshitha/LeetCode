@@ -21,6 +21,7 @@
 | [0496-next-greater-element-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0506-relative-ranks) |
 | [0624-maximum-distance-in-arrays](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
+| [0729-my-calendar-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0729-my-calendar-i) |
 | [0870-magic-squares-in-grid](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -143,6 +144,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0729-my-calendar-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0729-my-calendar-i) |
 ## Tree
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -208,4 +211,12 @@
 | ------- |
 | [0039-combination-sum](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0040-combination-sum-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
