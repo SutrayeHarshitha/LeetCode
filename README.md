@@ -80,6 +80,7 @@
 | [0009-palindrome-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0412-fizz-buzz) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1013-fibonacci-number) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -187,6 +189,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/1013-fibonacci-number) |
 ## Enumeration
 |  |
