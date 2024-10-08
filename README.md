@@ -18,6 +18,7 @@
 | [0136-single-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0506-relative-ranks) |
 | [0624-maximum-distance-in-arrays](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
@@ -39,6 +40,7 @@
 | [0088-merge-sorted-array](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Hash Table
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -145,6 +148,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0729-my-calendar-i](https://github.com/SutrayeHarshitha/LeetCode/tree/master/0729-my-calendar-i) |
 ## Tree
